@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  padding: 30px;
+  background-color: #ffc2a0;
+  height: 100vh;
+}
+.card-container {
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.heading {
+  color: #ff8542;
+}

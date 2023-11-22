@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  width: 70vw;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px;
+  border-top: 2px solid grey;
+}
+.button {
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid red;
+  color: red;
+  background-color: white;
+}
+
+.card-heading {
+  font-size: 26px;
+}
